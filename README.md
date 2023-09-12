@@ -1,1 +1,1 @@
-# Sensor
+# Netflix clone project
